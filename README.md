@@ -14,3 +14,8 @@ gulp
 ```
 gulp build
 ```
+
+### build svg sprite
+```
+gulp svg
+```
