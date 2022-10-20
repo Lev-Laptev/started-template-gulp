@@ -1,21 +1,13 @@
-# started-template-gulp
- 
-## Project setup
-```
-npm install
-```
+<h1 align="center">Started Template Gulp</h3>
 
-### start
-```
-gulp
-```
+## 📝 Table of Contents
 
-### build
-```
-gulp build
-```
+- [Getting Started](#start)
 
-### build svg sprite
-```
-gulp svg
-```
+## 🏁 Getting Started <a name = "start"></a>
+
+- Clone or download the repo
+- `npm install` to install dependencies
+- `gulp` to start
+- `gulp build` to build project
+- `gulp svg` to build svg sprite
